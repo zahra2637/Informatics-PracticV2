@@ -1,0 +1,15 @@
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:c="http://www.springframework.org/schema/c" xmlns="http://www.springframework.org/schema/beans"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd"
+       profile="!test">
+
+<!--    <bean class="com.thetransactioncompany.cors.CORSConfiguration"-->
+<!--          c:corsMapping="${cors.mapping}"-->
+<!--          c:corsAllowedOrigins="${cors.allowedOrigins}"-->
+<!--          c:corsAllowedMethods="${cors.allowedMethods}"-->
+<!--          c:corsAllowedHeaders="${cors.allowedHeaders}"-->
+<!--          c:corsExposedHeaders="${cors.exposedHeaders}"-->
+<!--          c:corsAllowCredentials="${cors.allowCredentials}"-->
+<!--          c:corsMaxAge="${cors.maxAgeSecond}"/>-->
+
+</beans>
